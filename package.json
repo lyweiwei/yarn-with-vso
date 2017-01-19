@@ -1,0 +1,8 @@
+{
+  "name": "yarn-with-vso",
+  "version": "1.0.0",
+  "description": "Demonstrate use yarn with VSO package manager",
+  "main": "index.js",
+  "repository": "https://github.com/lyweiwei/yarn-with-vso",
+  "author": "Wei Wei <lyweiwei@outlook.com>"
+}
